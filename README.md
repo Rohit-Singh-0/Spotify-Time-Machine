@@ -31,7 +31,6 @@ You'll also need to create a Spotify Developer account and obtain your `client_i
     cd Spotify-Time-Machine
     ```
 
-
 4. Open the script (`main.py`) in a text editor and fill in your Spotify Developer credentials (`client_id`, `client_secret`, and `username`).
 
 5. Run the script:
