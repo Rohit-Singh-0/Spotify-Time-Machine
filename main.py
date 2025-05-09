@@ -13,6 +13,7 @@ date = input('Which date do you want to travel to? Type the date in YYYY-MM-DD f
 # Construct the Billboard URL for the given date
 URL = f'https://www.billboard.com/charts/hot-100/{date}/'
 
+
 # Send a request to the Billboard website
 response = requests.get(url=URL)
 
